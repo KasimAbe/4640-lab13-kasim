@@ -9,3 +9,4 @@
 
 
 ![alt text](https://github.com/KasimAbe/4640-lab13-kasim/blob/main/state-file.png)
+![alt text](https://github.com/KasimAbe/4640-lab13-kasim/blob/main/lock-file.png)
